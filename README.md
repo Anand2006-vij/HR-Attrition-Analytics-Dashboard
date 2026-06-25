@@ -56,6 +56,8 @@ An interactive HR Analytics Dashboard developed using **Microsoft Power BI** to 
 
 ## 👨‍💻 Author
 
-** NAME: S.ANAND **
-** PHONE: 9390007378 **
-** E-MAIL: veeravenkayya1969@gmail.com **
+ NAME: S.ANAND
+ <br>
+ PHONE: 9390007378
+ <br>
+ E-MAIL: veeravenkayya1969@gmail.com
